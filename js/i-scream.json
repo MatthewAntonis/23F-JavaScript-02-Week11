@@ -33,5 +33,25 @@
             "Vanilla Base"
         ],
         "image": "https://priyansht.github.io/23F-JavaScript-02-Week11/images/strawberry-sprinkle.svg"
+    }, {
+        "name": "Vanilla Chocolate Chip",
+        "calories": 280,
+        "type": "ice-cream",
+        "ingredients": [
+            "Vanilla Base",
+            "Chocolate Chips",
+            "Whipped Cream"
+        ],
+        "image": "https://priyansht.github.io/23F-JavaScript-02-Week11/images/strawberry-sprinkle.svg"
+    }, {
+        "name": "Butter Pecan",
+        "calories": 320,
+        "type": "ice-cream",
+        "ingredients": [
+            "Butter Cream Base",
+            "Pecan Pieces",
+            "Caramel Swirl"
+        ],
+        "image": "https://priyansht.github.io/23F-JavaScript-02-Week11/images/strawberry-sprinkle.svg"
     }]
 }
